@@ -4,7 +4,7 @@
 
 All of this project, control under PID. (Linear)
 
-Three simulation is done for this project
+Three simulation is done for this project <br>
 1- First simulation, under not distburances, with torques.  <br>
 2- Simualtion with torques and disturbances. <br>
 3- Simulation with severe torques and both disturbances gradient and external. 
